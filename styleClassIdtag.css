@@ -1,0 +1,14 @@
+/* Selecting multiple HTML element types */
+h1, p {
+  border: 1px solid black;
+}
+
+/* Selecting styles to be applied to several classes */
+.ingredientsList, .instructionsList {
+  font-size: 1.2em;
+}
+
+/* Using multiple kinds of selectors*/
+h3, .red, #redElement{
+  color: red;
+}
