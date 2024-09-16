@@ -1,0 +1,12 @@
+h1 {
+  border: 10px solid black;
+
+}
+
+.rounded {
+	border-radius: 15px;
+}
+
+.elliptical {
+  border-radius: 50px / 25px;
+}
